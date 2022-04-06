@@ -2,30 +2,28 @@
 
 Node Version > 14
 
-# Installation
+# Deploy (how to install build product)
 
 ## Module install
 ### npm install or yarn install
 
-# Runs
-
 ## Run storybook component
 #### npm run storybook
 
-# Builds
+## Build the storybook component
+#### npm run build-storybook
 
-Build the storybook component
-npm run build-storybook
-Run the project
-development version
-npm run dev
-Production version
-npm run pro
-Build the project
-development version
-npm run build
-production version
-npm run prebuild
+## Run the project
+### development version
+#### npm run dev
+### Production version
+#### npm run pro
+
+## Build the project
+### development version
+#### npm run build
+### production version
+#### npm run prebuild
 
 # Deploy (how to install build product)
 
