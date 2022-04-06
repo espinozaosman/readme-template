@@ -1,6 +1,8 @@
-# Project Technical Stack
-Project was built with React/Typescript and Storybook</br>
-Used the styles library - Tailwind css
+# Project Technical Stack Overview
+Project was built with [React]((https://github.com/facebook/create-react-app))/[Typescript](https://www.typescriptlang.org) and [Storybook](https://storybook.js.org)</br>
+####
+Used the styles library - [Tailwind css](https://tailwindcss.com).
+####
 
 # Requirements
 
