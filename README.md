@@ -1,6 +1,6 @@
 # Requirements
 
-Node Version > 14
+Need to have installed Node Version > 14 for installation of packages.
 
 # Deploy (how to install-build product)
 
