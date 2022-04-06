@@ -26,17 +26,17 @@ Open [http://localhost:6006/](http://localhost:6006/) to view it in the browser.
 #### `npm run build-storybook`
 
 ## Run the project
-### development version
+### Development version
 #### `npm run dev`
 ### Production version
 #### `npm run pro`
 
 ## Build the project
-### development version
+### Development version
 #### `npm run build`
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-### production version
+### Production version
 #### `npm run prebuild`
 
 ## Start the project
