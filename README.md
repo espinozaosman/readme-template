@@ -1,3 +1,7 @@
+# Project Technical Stack
+Project was built with React/Typescript and Storybook
+Used the styles library - Tailwind css
+
 # Requirements
 
 Need to have installed Node Version > 14 for installation of packages.
