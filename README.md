@@ -6,6 +6,7 @@ Node Version > 14
 
 ## Module install
 ### npm install or yarn install
+Install the latest version of npm or yarn package.
 #### `npm install`
 or
 #### `yarn install`
