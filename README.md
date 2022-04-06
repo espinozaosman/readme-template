@@ -1,5 +1,5 @@
 # Project Technical Stack
-Project was built with React/Typescript and Storybook
+Project was built with React/Typescript and Storybook</br>
 Used the styles library - Tailwind css
 
 # Requirements
