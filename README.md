@@ -10,7 +10,7 @@ Node Version > 14
 # Usage
 
 ## Run storybook component
-### npm run storybook
+#### npm run storybook
 
 development version
 npm run dev
